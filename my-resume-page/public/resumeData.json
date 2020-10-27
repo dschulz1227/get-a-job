@@ -1,28 +1,29 @@
 {
   "main": {
     "name":"Damon Schulz",
-    "occupation":"Web Developer",
-    "description":"I grew up in Milwaukee, WI and at the age of 21 I joined the United States Navy",
+    "occupation":"Full Stack Developer",
+    "description":"Originally from Milwaukee, Wisconsin",
+    "descriptionTwo":"United States Navy Veteran",
+    "descriptionThree":"Father First",
     "image":"profilepic.jpg",
-    "bio":"I never thought I'd be in this position; my butt in a chair in front of a computer.",
-    "family":"I am the father of a beautiful young girl",
-    "contactmessage":"I would love to hear from you!",
+    "bio":"I never thought I'd be the person to have a computer job, although I have always been fascinated by technology. Now that I am, I couldn't be any more proud and excited for myself. Excited to give my next employer everything I have.",
+    "contactmessage":"Whether you have feedback, want to talk jobs, or just want to chat I would love to hear from you!",
     "email": "damon.schulz@gmail.com",
     "phone": "414-875-7302",
     "address":{
-      "city":"Gulfport",
+      "city":"Gulfport, ",
       "state":"Mississippi"
     },
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"http://twitter.com/damon_develops",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/damon-schulz-53a64486/",
         "className":"fa fa-linkedin"
       },
       {
@@ -43,31 +44,49 @@
       {
         "school":"devCodeCamp",
         "degree":"Web Development Certificate",
+        "certficate":"",
         "graduated":"October 2020",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Throughout this 16 week course we completed over a dozen projects, working on both front and back end technologies.",
+        "schoolLink":"https://devcodecamp.com/"
       },
       {
         "school":"St. Francis High School",
-        "graduated":"June 2012",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "graduated":" Graduated in June of 2012"
       }
     ],
     "work":[
       {
         "company":"United States Navy",
-        "title":"Construction Electrician",
+        "title":"Seaman , Construction Electrician",
         "years":"December 2015-September 2020",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description":" Supervised, managed, and trained teams of five Navy Sailors.",
+        "descriptionTwo":" Ensured all safety requirements and Federal Electrical Codes were maintained throughout a project.", 
+        "descriptionThree":"Performed Quality Control to verify standards were met.",
+        "descriptionFour":"Regularly learned and applied troubleshooting techniques to complete difficult tasks.",
+        "descriptionFive":"Held weapons training and safety classes for 40-70 Navy Sailors to qualify Navy Sailors for various roles.",
+        "descriptionSix" :"Trained Navy Sailors in battlefield procedure and team dynamics"
       }
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"75%"
-      },
-      {
         "name":"ReactJs",
         "level":"65%"
+      },
+      {
+        "name":"Nodejs",
+        "level":"60%"
+      },
+      {
+        "name":"Express",
+        "level":"65%"
+      },
+      {
+        "name":"Javascript",
+        "level":"70%"
+      },
+      {
+        "name":"Git",
+        "level":"75%"
       },
       {
         "name":"CSS",
@@ -82,14 +101,13 @@
         "level":"85%"
       },
       {
-        "name":"Nodejs",
-        "level":"60%"
+        "name":"REST API",
+        "level":"65%"
       },
       {
-        "name":"Javascript",
-        "level":"70%"
+        "name":"JSON Web Tokens",
+        "level":"50%"
       }
-      
     ]
   },
   "portfolio":{
@@ -97,14 +115,26 @@
       {
         "title":"My Planner",
         "category":"A simple planner for easily managing tasks",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "image":"planner.jpg",
+        "url":"https://www.github.com/dschulz1227/MyPlanner"
+      },
+      {
+        "title":"Social Media",
+        "category":"A group project from devCodeCamp",
+        "image":"socialmedia.jpg",
+        "url":"https://github.com/ritzdacanay24/socialMedia"
+      },
+      {
+        "title":"Youtube Clone",
+        "category":"Partner Project from devCodeCamp",
+        "image":"github.jpg",
+        "url":"https://github.com/An-Aries-Adventure/Youtube_Clone_Frontend"
       },
       {
         "title":"Stray Tracker",
-        "category":"A social app built for communities to keep track of the furry critters that roam about.",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "category":"A social media app I am building for communities to keep track of the furry critters that roam about their neighbordhoods.",
+        "image":"stray.jpg",
+        "url":"https://www.github.com/dschulz1227/stray-tracker"
       }
     ]
   },
