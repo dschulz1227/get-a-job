@@ -1,0 +1,24 @@
+{
+  "name": "get-a-job",
+  "version": "1.0.0",
+  "description": "This is a portfolio website I built using a template from Styleshout.",
+  "main": "index.js",
+  "dependencies": {
+    "react-ga": "^3.2.0",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dschulz1227/get-a-job.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dschulz1227/get-a-job/issues"
+  },
+  "homepage": "https://github.com/dschulz1227/get-a-job#readme"
+}
