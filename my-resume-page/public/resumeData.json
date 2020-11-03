@@ -141,12 +141,14 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"I have known Damon for most of my life and he has always been curious about technology. When Damon told me he wanted to become a software developer, I was excited to see his curiosity become a reality. As a Software Engineer, I have mentored a range of people and Damon has been one of the most motivated and determined I've helped. His problem solving skills from previous work experience no doubt has translated into his software development skills. I believe Damon would quickly become a strong member of any development team!",
+        "user":"Kelly Delano",
+        "relationship": "Software Engineer, mentor"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Damon is a persistent learner who gives a full effort and is always striving to push out a better application",
+        "user":"Michael Terrill",
+        "relationship": "devCodeCamp instructor"
       }
     ]
   }
